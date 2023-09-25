@@ -1,0 +1,15 @@
+@media (min-width: 768px){
+.col-md-8 {
+    flex: 0 0 auto;
+    width: 29.666667%;
+    z-index: -1;
+}
+}
+.col-md-8 {
+    flex: 0 0 auto;
+    width: 29.666667%;
+}
+.sade-img{
+    z-index: 100;
+    width: 571px;
+}
